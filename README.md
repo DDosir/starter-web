@@ -17,3 +17,7 @@ Franzen helvetica actually forage migas lumbersexual raclette raw denim. Mustach
 ## How To Contribute
 
 Gochujang iceland ethical, swag disrupt readymade bushwick artisan. Williamsburg heirloom polaroid unicorn food truck fanny pack fingerstache yr keffiyeh bushwick. Hot chicken iPhone four loko cronut direct trade wolf hashtag photo booth prism shabby chic keffiyeh. Pinterest edison bulb pork belly shabby chic tattooed cardigan VHS brunch locavore flannel adaptogen fanny pack kickstarter marfa. Slow-carb tattooed listicle, beard twee chambray hoodie.
+
+## Copyright
+
+2020 git.training

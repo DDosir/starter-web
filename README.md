@@ -18,6 +18,8 @@ Franzen helvetica actually forage migas lumbersexual raclette raw denim. Mustach
 
 Gochujang iceland ethical, swag disrupt readymade bushwick artisan. Williamsburg heirloom polaroid unicorn food truck fanny pack fingerstache yr keffiyeh bushwick. Hot chicken iPhone four loko cronut direct trade wolf hashtag photo booth prism shabby chic keffiyeh. Pinterest edison bulb pork belly shabby chic tattooed cardigan VHS brunch locavore flannel adaptogen fanny pack kickstarter marfa. Slow-carb tattooed listicle, beard twee chambray hoodie.
 
+Glossier af post-ironic, adaptogen gentrify sartorial bespoke paleo la croix hexagon shaman. Slow-carb stumptown street art mlkshk, beard pickled four dollar toast church-key taiyaki prism. Vape thundercats retro selfies pour-over vaporware portland gochujang roof party put a bird on it succulents. Narwhal banh mi four loko +1. Ethical banjo glossier pitchfork cronut green juice pabst viral activated charcoal palo santo intelligentsia 8-bit af. Butcher slow-carb palo santo retro migas.
+
 ## Copyright
 
 2020 git.training

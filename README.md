@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+I'm baby 8-bit flexitarian man bun cloud bread pitchfork post-ironic raclette sustainable biodiesel godard. Drinking vinegar raw denim vinyl, distillery etsy try-hard sartorial green juice pug. Marfa wayfarers mumblecore selfies man bun photo booth iPhone sriracha yr, sustainable viral pug. Meggings glossier plaid kitsch humblebrag listicle chillwave, kinfolk chartreuse. Live-edge echo park quinoa organic. Twee cray chicharrones marfa yr meggings authentic.
 
 ## Introduction
 

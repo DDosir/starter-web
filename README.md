@@ -24,4 +24,4 @@ Glossier af post-ironic, adaptogen gentrify sartorial bespoke paleo la croix hex
 
 ## Copyright
 
-2020 git.training
+2020 git.training. All right reserved
